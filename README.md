@@ -1,6 +1,6 @@
-* Map builded to Luanti Capture the Flag worlds servers.
+## Map builded to Luanti Capture the Flag worlds servers.
 
-The diversion is garanteed with "Shoot Kicks and Boombs"!
+* The diversion is garanteed with "Shoot Kicks and Boombs"!
 
 -- I builded only alterating whe world
 -- The data is only copyed to ./minetest/words
