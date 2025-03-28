@@ -1,4 +1,4 @@
-**Map builded to Luanti Capture the Flag worlds servers.
+** Map builded to Luanti Capture the Flag worlds servers.
 
 The diversion is garanteed with "Shoot Kicks and Boombs"!
 
