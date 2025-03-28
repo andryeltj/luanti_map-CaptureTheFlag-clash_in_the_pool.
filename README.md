@@ -3,6 +3,7 @@
 * The diversion is garanteed with "Shoot Kicks and Boombs"!
 
 -- I builded only alterating whe world
+
 -- The data is only copyed to ./minetest/words
 
 | Mapa Created to Luanti - Capture the Flag servers |
