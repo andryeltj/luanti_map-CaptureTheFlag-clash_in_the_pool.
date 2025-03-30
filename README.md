@@ -4,7 +4,12 @@
 
 -- I builded only alterating whe world
 
--- The data is only copyed to ./minetest/words
+-- The zip file contains 'world' and the 'map'
+
+-- Put the `ClashinthePool` folder in `/.minetest/games/capturetheflag/mods/ctf/ctf_map/maps/` to play him.
+
+-- If you want edit and correct any thing in the maps, is included the world file,
+ put the `clash_in_the_pool World` in `./minetest/worlds/`
 
 | Mapa Created to Luanti - Capture the Flag servers |
 | -------------:|
